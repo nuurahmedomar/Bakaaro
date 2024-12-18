@@ -8,3 +8,12 @@
   //   console.log(subCategory);
 
   // }, [subCategory])
+
+
+  
+  useEffect(()=>{
+    console.log(cartItems);
+    
+
+  },[cartItems])
+
