@@ -26,7 +26,8 @@ const Orders = () => {
                 </div>
               </div>
               <div className='md:w-1/2 flex justify-between'>
-                <div className='flex items-ceneter gap-2 '>
+              {/* flex items-ceneter gap-2 */}
+                <div className='flex items-center space-x-2'>
                   <p className='min-w-2 h-2 rounded-full bg-green-500'></p>
                   <p className='text-sm md:text-base'>Ready To Ship</p>
                 </div>
