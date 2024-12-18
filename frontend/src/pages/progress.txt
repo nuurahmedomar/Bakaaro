@@ -1,0 +1,19 @@
+  // useEffect(()=>{
+  //   setFilterProducts(products);
+
+  // }, [])
+
+// Display and test data
+  // useEffect(()=> {
+  //   console.log(subCategory);
+
+  // }, [subCategory])
+
+
+  
+  useEffect(()=>{
+    console.log(cartItems);
+    
+
+  },[cartItems])
+
